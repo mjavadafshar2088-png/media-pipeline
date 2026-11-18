@@ -1,0 +1,3 @@
+# فقط برای setup.py و login.py روی سیستم خودت (نه روی ران‌ر)
+-r requirements.txt
+pynacl==1.6.2

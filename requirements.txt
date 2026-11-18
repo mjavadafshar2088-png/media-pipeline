@@ -1,0 +1,5 @@
+telethon==1.38.1
+cryptg==0.6.1
+cryptography==50.0.2
+huggingface_hub[hf_xet]==2.4.0
+httpx==0.28.1
